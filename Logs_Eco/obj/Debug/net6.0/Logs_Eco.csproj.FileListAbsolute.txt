@@ -1,0 +1,24 @@
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\bin\Debug\net6.0\Logs_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\bin\Debug\net6.0\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\bin\Debug\net6.0\Logs_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\refint\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net6.0\ref\Logs_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\bin\Debug\net6.0\Logs_Eco.deps.json
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\bin\Debug\net6.0\Logs_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\bin\Debug\net6.0\Logs_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.csproj.AssemblyReference.cache
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.AssemblyInfoInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.AssemblyInfo.cs
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.csproj.CoreCompileInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\refint\Logs_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\Logs_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Logs_Eco\obj\Debug\net6.0\ref\Logs_Eco.dll

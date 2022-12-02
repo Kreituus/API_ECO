@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-28T14:45:46.8922412Z;True|2022-11-24T11:18:55.0371289-04:00;True|2022-11-24T08:39:55.8586650-04:00;True|2022-11-18T14:56:57.4138244-04:00;True|2022-11-18T14:10:02.5292866-04:00;True|2022-11-17T14:23:22.0171941-04:00;True|2022-11-17T08:32:06.1503917-04:00;True|2022-11-15T11:23:24.8207225-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

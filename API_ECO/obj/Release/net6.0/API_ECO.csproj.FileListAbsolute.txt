@@ -1,0 +1,180 @@
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\appsettings.json
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.exe
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.deps.json
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.runtimeconfig.json
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Castle.Core.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\NBitcoin.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\NLog.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\RestSharp.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Serilog.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Serilog.Sinks.File.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.IO.Packaging.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Access_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Business_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Business_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Entidades_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Logs_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Access_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\bin\Release\net6.0\Service_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\scopedcss\bundle\API_ECO.styles.css
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.csproj.CopyComplete
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\refint\API_ECO.dll
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.pdb
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.genruntimeconfig.cache
+C:\Users\Abel\source\repos\API_ECO\API_ECO\obj\Release\net6.0\ref\API_ECO.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\appsettings.Development.json
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\appsettings.json
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.exe
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.deps.json
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.runtimeconfig.json
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\API_ECO.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Castle.Core.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\DocumentFormat.OpenXml.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Api.CommonProtos.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Api.Gax.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Api.Gax.Grpc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Api.Gax.Grpc.GrpcCore.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Apis.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Apis.Auth.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Apis.Core.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Cloud.Diagnostics.AspNetCore.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Cloud.Diagnostics.Common.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Cloud.Logging.Type.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Cloud.Logging.V2.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Cloud.Trace.V1.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Google.Protobuf.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Grpc.Auth.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Grpc.Core.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Grpc.Core.Api.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\NBitcoin.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\NLog.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\RestSharp.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Serilog.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Serilog.Enrichers.Thread.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Data.SqlClient.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.IO.Packaging.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Access_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Business_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Common_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Entidades_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Logs_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Service_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Business_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Entidades_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Logs_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Access_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Common_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\bin\Release\net6.0\Service_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.csproj.AssemblyReference.cache
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.AssemblyInfoInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.AssemblyInfo.cs
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.csproj.CoreCompileInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.MvcApplicationPartsAssemblyInfo.cs
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.MvcApplicationPartsAssemblyInfo.cache
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\staticwebassets.build.json
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\staticwebassets.development.json
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\scopedcss\bundle\API_ECO.styles.css
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.csproj.CopyComplete
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\refint\API_ECO.dll
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.pdb
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\API_ECO.genruntimeconfig.cache
+D:\Israel Documentos\Repositorios\API_ECO\API_ECO\obj\Release\net6.0\ref\API_ECO.dll

@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Israel Documentos\\Repositorios\\API_ECO\\Business_Eco\\Business_Eco.csproj": {}
+  },
+  "projects": {
+    "D:\\Israel Documentos\\Repositorios\\API_ECO\\Access_Eco\\Access_Eco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Access_Eco\\Access_Eco.csproj",
+        "projectName": "Access_Eco",
+        "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Access_Eco\\Access_Eco.csproj",
+        "packagesPath": "C:\\Users\\ITANTANI\\.nuget\\packages\\",
+        "outputPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Access_Eco\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITANTANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj"
+              },
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Israel Documentos\\Repositorios\\API_ECO\\Business_Eco\\Business_Eco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Business_Eco\\Business_Eco.csproj",
+        "projectName": "Business_Eco",
+        "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Business_Eco\\Business_Eco.csproj",
+        "packagesPath": "C:\\Users\\ITANTANI\\.nuget\\packages\\",
+        "outputPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Business_Eco\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITANTANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Access_Eco\\Access_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Access_Eco\\Access_Eco.csproj"
+              },
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj"
+              },
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Service_Eco\\Service_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Service_Eco\\Service_Eco.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.18.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj",
+        "projectName": "Common_Eco",
+        "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj",
+        "packagesPath": "C:\\Users\\ITANTANI\\.nuget\\packages\\",
+        "outputPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITANTANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj",
+        "projectName": "Entidades_Eco",
+        "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj",
+        "packagesPath": "C:\\Users\\ITANTANI\\.nuget\\packages\\",
+        "outputPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITANTANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Israel Documentos\\Repositorios\\API_ECO\\Service_Eco\\Service_Eco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Service_Eco\\Service_Eco.csproj",
+        "projectName": "Service_Eco",
+        "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Service_Eco\\Service_Eco.csproj",
+        "packagesPath": "C:\\Users\\ITANTANI\\.nuget\\packages\\",
+        "outputPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Service_Eco\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITANTANI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Common_Eco\\Common_Eco.csproj"
+              },
+              "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj": {
+                "projectPath": "D:\\Israel Documentos\\Repositorios\\API_ECO\\Entidades_Eco\\Entidades_Eco.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

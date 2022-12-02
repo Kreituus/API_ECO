@@ -1,0 +1,12 @@
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\bin\Debug\net5.0\Entidades_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\bin\Debug\net5.0\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\bin\Debug\net5.0\Entidades_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\ref\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\Entidades_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Entidades_Eco\obj\Debug\net5.0\refint\Entidades_Eco.dll

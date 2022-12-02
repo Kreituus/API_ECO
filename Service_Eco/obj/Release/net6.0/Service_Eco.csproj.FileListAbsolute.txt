@@ -1,0 +1,34 @@
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Service_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Service_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net6.0\Entidades_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.csproj.CopyComplete
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\refint\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net6.0\ref\Service_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Service_Eco.deps.json
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Service_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Service_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Common_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Entidades_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Common_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\bin\Release\net6.0\Entidades_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.csproj.AssemblyReference.cache
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.AssemblyInfoInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.AssemblyInfo.cs
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.csproj.CoreCompileInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.csproj.CopyComplete
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\refint\Service_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\Service_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Service_Eco\obj\Release\net6.0\ref\Service_Eco.dll

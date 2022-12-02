@@ -1,0 +1,12 @@
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\bin\Release\net5.0\Common_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\bin\Release\net5.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\bin\Release\net5.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\ref\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net5.0\refint\Common_Eco.dll

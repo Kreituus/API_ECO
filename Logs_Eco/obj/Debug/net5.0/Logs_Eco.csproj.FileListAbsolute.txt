@@ -1,0 +1,12 @@
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\bin\Debug\net5.0\Logs_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\bin\Debug\net5.0\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\bin\Debug\net5.0\Logs_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\ref\Logs_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\Logs_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Logs_Eco\obj\Debug\net5.0\refint\Logs_Eco.dll

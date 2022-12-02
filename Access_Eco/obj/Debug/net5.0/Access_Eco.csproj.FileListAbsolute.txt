@@ -1,0 +1,17 @@
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Access_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Access_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Access_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.csproj.CopyComplete
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\ref\Access_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\Access_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\bin\Debug\net5.0\Entidades_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Access_Eco\obj\Debug\net5.0\refint\Access_Eco.dll

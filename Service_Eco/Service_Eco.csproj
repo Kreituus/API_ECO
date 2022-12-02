@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="108.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common_Eco\Common_Eco.csproj" />
+    <ProjectReference Include="..\Entidades_Eco\Entidades_Eco.csproj" />
+  </ItemGroup>
+
+</Project>

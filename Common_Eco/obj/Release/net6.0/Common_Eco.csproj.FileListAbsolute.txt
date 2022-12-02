@@ -1,0 +1,24 @@
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\bin\Release\net6.0\Common_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\bin\Release\net6.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\bin\Release\net6.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\refint\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Common_Eco\obj\Release\net6.0\ref\Common_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\bin\Release\net6.0\Common_Eco.deps.json
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\bin\Release\net6.0\Common_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\bin\Release\net6.0\Common_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.csproj.AssemblyReference.cache
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.AssemblyInfoInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.AssemblyInfo.cs
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.csproj.CoreCompileInputs.cache
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\refint\Common_Eco.dll
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\Common_Eco.pdb
+D:\Israel Documentos\Repositorios\API_ECO\Common_Eco\obj\Release\net6.0\ref\Common_Eco.dll

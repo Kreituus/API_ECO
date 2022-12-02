@@ -1,0 +1,17 @@
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Service_Eco.deps.json
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Service_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Common_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Entidades_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Common_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\bin\Release\net5.0\Entidades_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.csproj.AssemblyReference.cache
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.AssemblyInfoInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.AssemblyInfo.cs
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.csproj.CoreCompileInputs.cache
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.csproj.CopyComplete
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\ref\Service_Eco.dll
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\Service_Eco.pdb
+C:\Users\Abel\source\repos\API_ECO\Service_Eco\obj\Release\net5.0\refint\Service_Eco.dll
