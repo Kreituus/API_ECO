@@ -21,7 +21,7 @@ using DataTable = System.Data.DataTable;
 
 namespace Business_Eco
 {
-
+    //MENSAJE NUEVO
     public interface IBussinessPendientes
     {
         #region ROBOT
